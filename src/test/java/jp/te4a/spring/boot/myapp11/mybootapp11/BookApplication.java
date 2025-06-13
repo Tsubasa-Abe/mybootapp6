@@ -1,11 +1,11 @@
-package jp.te4a.spring.boot.myapp10.mybootapp10;
+package jp.te4a.spring.boot.myapp11.mybootapp11;
 
 //import org.junit.jupiter.api.Test;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 //import org.springframework.boot.test.context.SpringBootTest;
 
-import jp.te4a.spring.boot.myapp10.mybootapp10.BookApplication;
+import jp.te4a.spring.boot.myapp11.mybootapp11.BookApplication;
 
 @SpringBootApplication
 public class BookApplication {
